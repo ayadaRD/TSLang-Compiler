@@ -1,0 +1,10 @@
+def int main(str s, int a){
+var int b = 3;
+b = a + s;
+a == 0 ? a = a - 1 : a = a + 1;
+var str mystr1 = "hello";
+var str mystr2 = "bye";
+var str sum = mystr1 + mystr2;
+return 0;
+}
+def int get(int b, int c) return b + c;
